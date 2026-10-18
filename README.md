@@ -14,3 +14,7 @@
 1. `pip install -r requirements.txt`
 2. Настрой `config.py`
 3. `python parser.py`
+
+## Контакты
+- Email: 9524271.kwork@gmail.com
+- Kwork: (https://kwork.ru/user/artem_parser)
